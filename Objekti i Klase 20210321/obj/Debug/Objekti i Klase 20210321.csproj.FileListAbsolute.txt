@@ -1,0 +1,7 @@
+C:\Users\Mato\source\repos\Objekti i Klase 20210321\Objekti i Klase 20210321\bin\Debug\Objekti i Klase 20210321.exe.config
+C:\Users\Mato\source\repos\Objekti i Klase 20210321\Objekti i Klase 20210321\bin\Debug\Objekti i Klase 20210321.exe
+C:\Users\Mato\source\repos\Objekti i Klase 20210321\Objekti i Klase 20210321\bin\Debug\Objekti i Klase 20210321.pdb
+C:\Users\Mato\source\repos\Objekti i Klase 20210321\Objekti i Klase 20210321\obj\Debug\Objekti i Klase 20210321.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\Objekti i Klase 20210321\Objekti i Klase 20210321\obj\Debug\Objekti i Klase 20210321.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\Objekti i Klase 20210321\Objekti i Klase 20210321\obj\Debug\Objekti i Klase 20210321.exe
+C:\Users\Mato\source\repos\Objekti i Klase 20210321\Objekti i Klase 20210321\obj\Debug\Objekti i Klase 20210321.pdb
